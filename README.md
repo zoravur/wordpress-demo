@@ -6,6 +6,8 @@ and I wondered why I didn't start sooner. I guess I was just biased against PHP 
 
 Wikipedia is built on PHP, too. Trust the way of the ancients.
 
+[insert bell curve meme I cant find]
+
 Quickstart
 ```
 docker compose up -d
